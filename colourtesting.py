@@ -3,7 +3,8 @@ import numpy as np
 
 def empty(a):
     pass
-
+def somethigtesting(b):
+    print("nothign here")
 def stackImages(scale,imgArray):
     rows = len(imgArray)
     cols = len(imgArray[0])
